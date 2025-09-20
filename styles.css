@@ -19,8 +19,12 @@ h1{
 	background-color:white;
 	margin:10px;
 	padding:10px;
+	border:2px solid gray;
 }
 .author{
 	margin-top:15px;
 	margin-right:15px;
+	text-align:right;
+	font-style:italic;
+	
 }
